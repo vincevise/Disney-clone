@@ -17,8 +17,5 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## Things Learned
-styled component\
-react-redux-toolkit\
-react-router-dom\
-firebase\
-slick-carousel
+<img src="https://user-images.githubusercontent.com/88813613/188016750-02275fed-33a1-43ab-845c-d27ca35b3b04.png" width="100"><img src="https://miro.medium.com/max/500/1*tOI6UC5EaS2fPItCesI-AQ.png" width="100"><img src="https://reactrouter.com/twitterimage.jpg" width="100"><img src="https://cdn-media-1.freecodecamp.org/images/0*CPTNvq87xG-sUGdx.png" width="100">
+ 
