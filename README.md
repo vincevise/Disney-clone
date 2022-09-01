@@ -20,4 +20,4 @@ You may also see any lint errors in the console.
 styled component\
 react-redux-toolkit\
 firebase\
-slick-carousel\
+slick-carousel
