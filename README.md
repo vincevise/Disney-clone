@@ -17,7 +17,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## Things Learned
-styled component
-react-redux-toolkit
-firebase
-slick-carousel
+styled component__
+react-redux-toolkit__
+firebase__
+slick-carousel__
